@@ -1,0 +1,13 @@
+{
+  "extends": "next"
+}
+
+  // {
+  //     "rules": {
+  //         "eqeqeq": "off",
+  //         "no-unused-vars": "off",
+  //         "prefer-const": ["off", { "ignoreReadBeforeAssign": true }],
+  //         "parser": "babel-eslint"
+
+  //     }
+  // }
